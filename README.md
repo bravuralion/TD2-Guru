@@ -12,8 +12,6 @@ The Polish Railway Expert Discord Bot is a helpful assistant for all enthusiasts
 - **Queue System**: Manages multiple queries efficiently using a queue system.
 
 ## Samples:
-Question: /askpkp question: how fast can a train go when he gets an Sz Signal in Train Driver 2?
-Answer: Wenn ein Zug das Sz-Signal in Train Driver 2 erhält, darf er mit einer Geschwindigkeit von maximal 40 km/h fahren. Diese Geschwindigkeit muss jedoch so reguliert werden, dass der Lokführer jederzeit in der Lage ist, den Zug im Falle einer plötzlichen Hinderniswarnung zum Stehen zu bringen.
 
 Question: /askpkp question: who are the authors of the scenery czermin? Answer in English
 Answer: The authors of the scenery "Czermin" are:
